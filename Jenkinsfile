@@ -2,7 +2,7 @@
 
     stages {
         stage('Build') {
-            steps {
+            steps 
                 echo 'Building...'
             }
         }
